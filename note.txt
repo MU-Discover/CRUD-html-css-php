@@ -1,0 +1,3 @@
+pwd: 0wZcxZ(1+8*|*Db=
+uname: id20437839_root
+dbname: phpmysqldb
